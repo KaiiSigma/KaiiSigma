@@ -45,6 +45,24 @@
 
 ---
 
+### ⚙️ Environment & Preferences
+
+#### OS
+<p>
+  <img src="https://img.shields.io/badge/Fedora_Linux-1A1A1A?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
+  <img src="https://img.shields.io/badge/Windows-1A1A1A?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+#### Games
+<p>
+  <img src="https://img.shields.io/badge/TLOU_Part_I-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 1" />
+  <img src="https://img.shields.io/badge/TLOU_Part_II-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 2" />
+  <img src="https://img.shields.io/badge/Spider--Man_Remastered-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Spider-Man Remastered" />
+  <img src="https://img.shields.io/badge/Ghost_of_Tsushima-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Ghost Of Tsushima" />
+</p>
+
+---
+
 ### 📌 Featured Repositories
 
 <p align="center">
@@ -68,6 +86,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📫 Contact & Socials
+
+<p>I'm always looking to collaborate on open-source backend projects or system design. Feel free to browse my repositories or reach out directly:</p>
+
+<p align="center">
+  <a href="https://discord.com/users/ryuukyy." target="_blank">
+    <img src="https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/tn.bishop?stkn=MXYzeWJ5c284d25jcw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/082283624425" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
