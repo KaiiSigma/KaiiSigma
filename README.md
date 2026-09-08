@@ -18,26 +18,53 @@
 
 ### 💻 About Me
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>📌 Focus & Exploration</h4>
       <ul>
-        <li><code>Go</code> — Scripting</li>
-        <li><code>Web Dev</code> — Backend Projects For Now</li>
-        <li><code>Software Development</code> — Learning new tech stacks</li>
+        <li><code>Go</code> — Backend & Scripting</li>
+        <li><code>Web Dev</code> — Backend Projects</li>
+        <li><code>Software Dev</code> — Exploring New Stacks</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Preferred Environment</h4>
       <ul>
-        <li><b>Editor:</b> VS Code, Neovim</li>
-        <li><b>Version Control:</b> Git & GitHub</li>
-        <li><b>Data Tools:</b> Jupyter Notebook, Pandas, Sqlite</li>
+        <li><b>Editors:</b> <code>VS Code</code>, <code>Neovim</code></li>
+        <li><b>Version Control:</b> <code>Git</code>, <code>GitHub</code></li>
+        <li><b>Data Tools:</b> <code>Jupyter</code>, <code>Pandas</code>, <code>SQLite</code></li>
       </ul>
     </td>
   </tr>
 </table>
 
-```text
-> Status: Learning, exploring, and building cool things every day.
+> **Status:** *Learning, exploring, and building cool things every day.*
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 📊 Contribution & Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaiiSigma&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaiiSigma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:000000&height=80&section=footer" width="100%"/>
+</p>
