@@ -74,27 +74,23 @@
 ### 📌 Featured Repositories
 
 <p align="center">
-  <img height="110" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=dark&hide_border=true" />
-  <img height="110" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=dark&hide_border=true" />
+  <img height="110" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="110" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
 ### 📊 Contribution & Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaiiSigma&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" width="100%" />
-</p>
-
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=dark&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=AAAAAA" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" width="100%" />
       <br><br>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" width="100%" />
     </td>
   </tr>
 </table>
