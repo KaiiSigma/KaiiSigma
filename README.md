@@ -45,11 +45,21 @@
 
 ---
 
+---
+
 ### 📌 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=dark&hide_border=true" />
+  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=dark&hide_border=true" />
+  <img height="120" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaiiSigma&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -57,12 +67,12 @@
 ### 📊 Contribution & Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=dark&hide_border=true" width="85%" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true" />
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
