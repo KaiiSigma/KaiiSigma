@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/TLOU_Part_II-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 2" />
   <img src="https://img.shields.io/badge/Spider--Man_Remastered-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Spider-Man Remastered" />
   <img src="https://img.shields.io/badge/Ghost_of_Tsushima-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Ghost Of Tsushima" />
+  <img src="https://img.shields.io/badge/and a lot more-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="and a lot more" />
 </p>
 
 ---
