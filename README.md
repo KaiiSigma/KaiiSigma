@@ -21,25 +21,21 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📌 Focus & Exploration</h4>
-      <ul>
-        <li><code>Go</code> — Backend & Scripting</li>
-        <li><code>Web Dev</code> — Backend Projects</li>
-        <li><code>Software Dev</code> — Exploring New Stacks</li>
-      </ul>
+      <h3>🚀 Core Focus</h3>
+      <p><b>Backend & Scripting:</b> <code>Go</code> & <code>Python</code></p>
+      <p><b>Web Development:</b> Focus on API & Architecture</p>
+      <p><b>Software Engineering:</b> Exploring System Design & Clean Code</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Preferred Environment</h4>
-      <ul>
-        <li><b>Editors:</b> <code>VS Code</code>, <code>Neovim</code></li>
-        <li><b>Version Control:</b> <code>Git</code>, <code>GitHub</code></li>
-        <li><b>Data Tools:</b> <code>Jupyter</code>, <code>Pandas</code>, <code>SQLite</code></li>
-      </ul>
+      <h3>🛠️ Tech Stack & Environment</h3>
+      <p><b>Editors:</b> <code>VS Code</code> • <code>Neovim</code></p>
+      <p><b>Version Control:</b> <code>Git</code> • <code>GitHub</code></p>
+      <p><b>Data & Databases:</b> <code>Pandas</code> • <code>Jupyter</code> • <code>SQLite</code></p>
     </td>
   </tr>
 </table>
 
-> **Status:** *Learning, exploring, and building cool things every day.*
+> 💬 *"Learning, exploring, and building cool things every day."*
 
 ---
 
