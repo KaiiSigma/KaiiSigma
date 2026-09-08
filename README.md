@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/TLOU_Part_II-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 2" />
   <img src="https://img.shields.io/badge/Spider--Man_Remastered-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Spider-Man Remastered" />
   <img src="https://img.shields.io/badge/Ghost_of_Tsushima-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Ghost Of Tsushima" />
-  <img src="https://img.shields.io/badge/and a lot more-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="and a lot more" />
+  <img src="https://img.shields.io/badge/and_a_lot_more-1A1A1A?style=for-the-badge&logo=gamepad&logoColor=white" alt="and a lot more" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
   <a href="https://www.instagram.com/tn.bishop?stkn=MXYzeWJ5c284d25jcw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/082283624425" target="_blank">
+  <a href="https://wa.me/6282283624425" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
