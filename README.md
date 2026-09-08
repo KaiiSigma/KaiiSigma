@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="./kaiibanner.jpg" alt="The Last of Us Window Banner" width="100%">
-</p>
+<div align="center">
+  <img src="./kaiibanner.jpg" alt="The Last of Us Window Banner" width="75%" style="border-radius: 10px;">
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00B4DB&center=true&vCenter=true&width=500&lines=Python+%26+Data+Explorer;Web+Development;Gamer+%26+Tech+Enthusiast;Building+Cool+Stuff..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4DB&center=true&vCenter=true&width=500&lines=Python+%26+Data+Explorer;Web+Development;Gamer+%26+Tech+Enthusiast;Building+Cool+Stuff..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 ```json
 {
   "user": "KaiiSigma",
-  "focus": ["Python", "Data Manipulation", "Web Dev"],
-  "tools": ["VS Code", "Git", "Jupyter"],
+  "focus": ["Python", "Data Analysis", "Web Development"],
+  "tools": ["VS Code", "Git", "Jupyter Notebook"],
   "interests": ["Gaming", "Story & Lore Exploration", "Coding"],
   "status": "Learning, exploring, and experimenting with code!"
 }
