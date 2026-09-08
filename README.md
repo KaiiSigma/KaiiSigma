@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kaiii.jpg" alt="The Last of Us Window Banner" width="100%" height="180px" style="object-fit: cover; border-radius: 10px;">
+  <img src="./kaiii.jpg" alt="The Last of Us Window Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;">
 </div>
 
 <p align="center">
