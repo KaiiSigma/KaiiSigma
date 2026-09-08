@@ -62,6 +62,13 @@
   <img src="https://img.shields.io/badge/and_a_lot_more-1A1A1A?style=for-the-badge&logo=gamepad&logoColor=white" alt="and a lot more" />
 </p>
 
+#### Interests
+<p>
+  <img src="https://img.shields.io/badge/Marvel_--_Spider--Man-1A1A1A?style=for-the-badge&logo=marvel&logoColor=white" alt="Marvel - Spider-Man" />
+  <img src="https://img.shields.io/badge/The_Last_of_Us_--_Ellie-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU - Ellie" />
+  <img src="https://img.shields.io/badge/Genshin_--_Arlecchino-1A1A1A?style=for-the-badge&logo=genshinimpact&logoColor=white" alt="Genshin - Arlecchino" />
+</p>
+
 ---
 
 ### 📌 Featured Repositories
