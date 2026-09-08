@@ -19,7 +19,7 @@
 ### 💡 Why I Entered This Field
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1&pause=1000&color=CCCCCC&center=true&vCenter=true&width=700&lines=To+express+my+ideas+through+code.&cursor=false" alt="Why I Entered This Field" />
+  <img src="https://vhs-text.vercel.app/api/vhs?text=To%20express%20my%20ideas%20through%20code.&font=Fira%20Code" alt="Why I Entered This Field" />
 </p>
 
 ---
