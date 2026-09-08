@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Python+%26+Data+Explorer;Web+Development;Gamer+%26+Tech+Enthusiast;Building+Cool+Stuff..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Hi%2C+Perkenalkan+nama+gw+Kaii;Expert+Gamer+%7C%7C+Beginner+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -68,4 +68,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:000000&height=80&section=footer" width="100%"/>
 </p>
-
