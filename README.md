@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="The Last of Us Window Banner" width="100%">
+  <img src="./kaiibanner.jpg" alt="The Last of Us Window Banner" width="100%">
 </p>
 
 <p align="center">
