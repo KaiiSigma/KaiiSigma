@@ -83,7 +83,7 @@
 ### 📊 Contribution & Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KaiiSigma/KaiiSigma/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=KaiiSigma&theme=dark" alt="3D Profile Contrib" />
 </p>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
