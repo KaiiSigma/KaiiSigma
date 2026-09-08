@@ -16,6 +16,14 @@
 
 ---
 
+### 💡 Why I Entered This Field
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=CCCCCC&center=true&vCenter=true&width=700&lines=To+express+my+ideas+through+code." alt="Why I Entered This Field" />
+</p>
+
+---
+
 ### 💻 About Me
 
 <table align="center" width="100%" border="1" cellspacing="0" cellpadding="12">
@@ -34,14 +42,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 💡 Why I Entered This Field
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=CCCCCC&center=true&vCenter=true&width=700&lines=To+express+my+ideas+through+code." alt="Why I Entered This Field" />
-</p>
 
 ---
 
