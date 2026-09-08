@@ -18,16 +18,16 @@
 
 ### 💻 About Me
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="1" cellspacing="0" cellpadding="12">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Core Focus</h3>
+    <td width="50%" valign="top" align="left">
+      <h3 align="center">🚀 Core Focus</h3>
       <p><b>Backend & Scripting:</b> <code>Go</code> & <code>Python</code></p>
       <p><b>Web Development:</b> Focus on API & Architecture</p>
       <p><b>Software Engineering:</b> Exploring System Design & Clean Code</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Tech Stack & Environment</h3>
+    <td width="50%" valign="top" align="left">
+      <h3 align="center">🛠️ Tech Stack & Environment</h3>
       <p><b>Editors:</b> <code>VS Code</code> • <code>Neovim</code></p>
       <p><b>Version Control:</b> <code>Git</code> • <code>GitHub</code></p>
       <p><b>Data & Databases:</b> <code>Pandas</code> • <code>Jupyter</code> • <code>SQLite</code></p>
@@ -35,7 +35,13 @@
   </tr>
 </table>
 
-> 💬 *"Learning, exploring, and building cool things every day."*
+---
+
+### 💬 Dev Quote
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=CCCCCC&center=true&vCenter=true&width=700&lines=Learning%2C+exploring%2C+and+building+cool+things+every+day." alt="Dev Quote" />
+</p>
 
 ---
 
