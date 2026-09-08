@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:00B4DB&height=180&section=header&text=Welcome%20to%20KaiiSigma's%20Space&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://i.pinimg.com/originals/a1/38/c1/a138c11e6498cf112cefb98822964e5c.jpg" alt="The Last of Us Window Banner" width="100%">
 </p>
 
 <p align="center">
