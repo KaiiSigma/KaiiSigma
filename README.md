@@ -37,10 +37,10 @@
 
 ---
 
-### 💬 Dev Quote
+### 💡 Why I Entered This Field
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=CCCCCC&center=true&vCenter=true&width=700&lines=Learning%2C+exploring%2C+and+building+cool+things+every+day." alt="Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=CCCCCC&center=true&vCenter=true&width=700&lines=To+express+my+ideas+through+code." alt="Why I Entered This Field" />
 </p>
 
 ---
