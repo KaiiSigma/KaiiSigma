@@ -19,7 +19,7 @@
 ### 💡 Why I Entered This Field
 
 <p align="center">
-  <img src="https://vhs-text.vercel.app/api/vhs?text=To%20express%20my%20ideas%20through%20code.&font=Fira%20Code" alt="Why I Entered This Field" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=80&text=To%20express%20my%20ideas%20through%20code.&fontSize=22&animation=twinkling&fontColor=FFFFFF&fontAlignY=50" alt="Why I Entered This Field" />
 </p>
 
 ---
