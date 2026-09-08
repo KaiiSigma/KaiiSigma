@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a1/38/c1/a138c11e6498cf112cefb98822964e5c.jpg" alt="The Last of Us Window Banner" width="100%">
+  <img src="./banner.jpg" alt="The Last of Us Window Banner" width="100%">
 </p>
 
 <p align="center">
