@@ -19,7 +19,23 @@
 ### 💡 Why I Entered This Field
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=CCCCCC&center=true&vCenter=true&width=700&lines=To+express+my+ideas+through+code." alt="Why I Entered This Field" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+    <style>
+      .floating-text {
+        font-family: 'Fira Code', monospace, sans-serif;
+        font-weight: 600;
+        font-size: 20px;
+        fill: #CCCCCC;
+        text-anchor: middle;
+        animation: float 3s ease-in-out infinite;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+    </style>
+    <text x="50%" y="35" class="floating-text">To express my ideas through code.</text>
+  </svg>
 </p>
 
 ---
