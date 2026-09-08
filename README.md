@@ -16,14 +16,28 @@
 
 ---
 
-### 🎮 About Me
+### 💻 About Me
 
-```json
-{
-  "user": "KaiiSigma",
-  "focus": ["Python", "Data Analysis", "Web Development"],
-  "tools": ["VS Code", "Git", "Jupyter Notebook"],
-  "interests": ["Gaming", "Story & Lore Exploration", "Coding"],
-  "status": "Learning, exploring, and experimenting with code!"
-}
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📌 Focus & Exploration</h4>
+      <ul>
+        <li><code>Python</code> — Data Analysis & Scripting</li>
+        <li><code>Web Dev</code> — Frontend & Backend Projects</li>
+        <li><code>Software Development</code> — Learning new tech stacks</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Preferred Environment</h4>
+      <ul>
+        <li><b>Editor:</b> VS Code</li>
+        <li><b>Version Control:</b> Git & GitHub</li>
+        <li><b>Data Tools:</b> Jupyter Notebook, Pandas</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+```text
+> Status: Learning, exploring, and building cool things every day.
