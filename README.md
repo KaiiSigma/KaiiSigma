@@ -56,14 +56,18 @@
 
 ### 📊 Contribution & Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=dark&hide_border=true" width="75%" />
-</p>
-
-<p align="center">
-  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="130" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true" />
-</p>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=dark&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+      <br><br>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
