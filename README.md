@@ -45,11 +45,13 @@
 
 ---
 
+---
+
 ### 📌 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.pw/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.pw/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,8 +63,8 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.pw/api?username=KaiiSigma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.pw/api/top-langs/?username=KaiiSigma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
