@@ -45,8 +45,6 @@
 
 ---
 
----
-
 ### 📌 Featured Repositories
 
 <p align="center">
@@ -56,10 +54,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### ⚡ Quick Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaiiSigma&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=donut&theme=dark&hide_border=true" />
 </p>
 
 ---
