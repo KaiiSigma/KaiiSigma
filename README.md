@@ -23,7 +23,7 @@
     <td width="50%" valign="top" align="left">
       <h3 align="center">🚀 Core Focus</h3>
       <p><b>Backend & Scripting:</b> <code>Go</code> & <code>Python</code></p>
-      <p><b>Web Development:</b> Focus on API & Architecture</p>
+      <p><b>Web Development:</b> Focus on Architecture</p>
       <p><b>Software Engineering:</b> Exploring System Design & Clean Code</p>
     </td>
     <td width="50%" valign="top" align="left">
