@@ -23,17 +23,17 @@
     <td width="50%" valign="top">
       <h4>📌 Focus & Exploration</h4>
       <ul>
-        <li><code>Python</code> — Data Analysis & Scripting</li>
-        <li><code>Web Dev</code> — Frontend & Backend Projects</li>
+        <li><code>Go</code> — Scripting</li>
+        <li><code>Web Dev</code> — Backend Projects For Now</li>
         <li><code>Software Development</code> — Learning new tech stacks</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Preferred Environment</h4>
       <ul>
-        <li><b>Editor:</b> VS Code</li>
+        <li><b>Editor:</b> VS Code, Neovim</li>
         <li><b>Version Control:</b> Git & GitHub</li>
-        <li><b>Data Tools:</b> Jupyter Notebook, Pandas</li>
+        <li><b>Data Tools:</b> Jupyter Notebook, Pandas, Sqlite</li>
       </ul>
     </td>
   </tr>
