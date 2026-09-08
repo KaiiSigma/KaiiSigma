@@ -54,14 +54,6 @@
 
 ---
 
-### ⚡ Quick Overview
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=donut&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 📊 Contribution & Activity Graph
 
 <p align="center">
