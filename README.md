@@ -82,6 +82,10 @@
 
 ### 📊 Contribution & Activity Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaiiSigma/KaiiSigma/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
+</p>
+
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
