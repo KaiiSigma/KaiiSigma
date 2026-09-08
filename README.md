@@ -43,11 +43,13 @@
 
 ---
 
+---
+
 ### 📌 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.pw/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.pw/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,12 +57,12 @@
 ### 📊 Contribution & Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaiiSigma&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaiiSigma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.pw/api?username=KaiiSigma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.pw/api/top-langs/?username=KaiiSigma&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
