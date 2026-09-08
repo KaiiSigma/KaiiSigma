@@ -83,7 +83,7 @@
 ### 📊 Contribution & Activity Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaiiSigma&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" width="100%" />
 </p>
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
