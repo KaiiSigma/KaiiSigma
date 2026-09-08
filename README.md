@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./kaiibanner.jpg" alt="The Last of Us Window Banner" width="75%" style="border-radius: 10px;">
+  <img src="./kaiii.jpg" alt="The Last of Us Window Banner" width="75%" style="border-radius: 10px;">
 </div>
 
 <p align="center">
