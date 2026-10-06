@@ -71,15 +71,6 @@
 
 ---
 
-### 📌 Featured Repositories
-
-<p align="center">
-  <img height="110" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=Dasar-Pemrograman&theme=dark&hide_border=true&bg_color=0D1117" />
-  <img height="110" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KaiiSigma&repo=web_sarpras_be&theme=dark&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
 ### 📊 Contribution & Activity Graph
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
