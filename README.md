@@ -71,10 +71,10 @@
 
 ---
 
-### Weekly Coding Activity (WakaTime)
+### Weekly Coding Activity
 
 <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/KaiiSigma.svg" alt="wakatime" /></a>
+  <img src=<figure><embed src="https://wakatime.com/share/@175de239-b284-4ccf-a1d3-f993f1ad7766/94c4b738-68a0-487e-ab37-267445d085df.svg"></embed></figure> alt="WakaTime Stats" />
 </p>
 
 ---
