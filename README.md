@@ -74,7 +74,7 @@
 ### Weekly Coding Activity (WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KaiiSigma&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" width="100%" alt="WakaTime Stats" />
+  <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/KaiiSigma.svg" alt="wakatime" /></a>
 </p>
 
 ---
