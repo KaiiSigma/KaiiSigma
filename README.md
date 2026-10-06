@@ -38,25 +38,4 @@
       <h3 align="center"> Tech Stack & Environment</h3>
       <p><b>Editors:</b> <code>VS Code</code> • <code>Neovim</code></p>
       <p><b>Version Control:</b> <code>Git</code> • <code>GitHub</code></p>
-      <p><b>Data & Databases:</b> <code>Pandas</code> • <code>Jupyter</code> • <code>SQLite</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### Environment & Preferences
-
-#### OS
-<p>
-  <img src="https://img.shields.io/badge/Fedora_Linux-1A1A1A?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
-  <img src="https://img.shields.io/badge/Windows-1A1A1A?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
-
-#### Games
-<p>
-  <img src="https://img.shields.io/badge/TLOU_Part_I-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 1" />
-  <img src="https://img.shields.io/badge/TLOU_Part_II-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 2" />
-  <img src="https://img.shields.io/badge/Spider--Man_Remastered-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Spider-Man Remastered" />
-  <img src="https://img.shields.io/badge/Ghost_of_Tsushima-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Ghost Of Tsushima" />
-  <img src="
+      <p><b>Data & Databases:</b> <code>Pandas</code> • <code>J
