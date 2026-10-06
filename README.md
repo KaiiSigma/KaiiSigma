@@ -71,14 +71,6 @@
 
 ---
 
-### Weekly Coding Activity
-
-<p align="center">
-  <img src=<figure><embed src="https://wakatime.com/share/@175de239-b284-4ccf-a1d3-f993f1ad7766/94c4b738-68a0-487e-ab37-267445d085df.svg"></embed></figure> alt="WakaTime Stats" />
-</p>
-
----
-
 ### Contribution & Activity Graph
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
