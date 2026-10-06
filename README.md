@@ -59,47 +59,4 @@
   <img src="https://img.shields.io/badge/TLOU_Part_II-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU 2" />
   <img src="https://img.shields.io/badge/Spider--Man_Remastered-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Spider-Man Remastered" />
   <img src="https://img.shields.io/badge/Ghost_of_Tsushima-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="Ghost Of Tsushima" />
-  <img src="https://img.shields.io/badge/and_a_lot_more-1A1A1A?style=for-the-badge&logo=gamepad&logoColor=white" alt="and a lot more" />
-</p>
-
-#### Interests
-<p>
-  <img src="https://img.shields.io/badge/Marvel_--_Spider--Man-1A1A1A?style=for-the-badge&logo=marvel&logoColor=white" alt="Marvel - Spider-Man" />
-  <img src="https://img.shields.io/badge/The_Last_of_Us_--_Ellie-1A1A1A?style=for-the-badge&logo=playstation&logoColor=white" alt="TLOU - Ellie" />
-  <img src="https://img.shields.io/badge/Genshin_--_Arlecchino-1A1A1A?style=for-the-badge&logo=genshinimpact&logoColor=white" alt="Genshin - Arlecchino" />
-</p>
-
----
-
-### Contribution & Activity Graph
-
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiiSigma&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=AAAAAA" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiiSigma&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" width="100%" />
-      <br><br>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiiSigma&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### Contact & Socials
-
-<p>I'm always looking to collaborate on open-source backend projects or system design. Feel free to browse my repositories or reach out directly:</p>
-
-<p align="center">
-  <a href="https://discord.com/users/ryuukyy." target="_blank"><img src="https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.instagram.com/tn.bishop?stkn=MXYzeWJ5c284d25jcw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://wa.me/6282283624425" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:000000&height=80&section=footer" width="100%"/>
-</p>
+  <img src="
