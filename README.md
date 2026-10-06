@@ -16,7 +16,7 @@
 
 ---
 
-### 💡 Why I Entered This Field
+### Why I Entered This Field
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=80&text=To%20express%20my%20ideas%20through%20code.&fontSize=22&animation=twinkling&fontColor=FFFFFF&fontAlignY=50" alt="Why I Entered This Field" />
@@ -24,18 +24,18 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
 <table align="center" width="100%" border="1" cellspacing="0" cellpadding="12">
   <tr>
     <td width="50%" valign="top" align="left">
-      <h3 align="center">🚀 Core Focus</h3>
+      <h3 align="center"> Core Focus</h3>
       <p><b>Backend & Scripting:</b> <code>Go</code> & <code>Python</code></p>
       <p><b>Web Development:</b> Focus on Architecture</p>
       <p><b>Software Engineering:</b> Exploring System Design & Clean Code</p>
     </td>
     <td width="50%" valign="top" align="left">
-      <h3 align="center">🛠️ Tech Stack & Environment</h3>
+      <h3 align="center"> Tech Stack & Environment</h3>
       <p><b>Editors:</b> <code>VS Code</code> • <code>Neovim</code></p>
       <p><b>Version Control:</b> <code>Git</code> • <code>GitHub</code></p>
       <p><b>Data & Databases:</b> <code>Pandas</code> • <code>Jupyter</code> • <code>SQLite</code></p>
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 Contribution & Activity Graph
+### Contribution & Activity Graph
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-### 📫 Contact & Socials
+### Contact & Socials
 
 <p>I'm always looking to collaborate on open-source backend projects or system design. Feel free to browse my repositories or reach out directly:</p>
 
