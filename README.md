@@ -93,7 +93,6 @@
 <p>I'm always looking to collaborate on open-source backend projects or system design. Feel free to browse my repositories or reach out directly:</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/username_kamu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.com/users/ryuukyy." target="_blank"><img src="https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.instagram.com/tn.bishop?stkn=MXYzeWJ5c284d25jcw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://wa.me/6282283624425" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
