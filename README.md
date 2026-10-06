@@ -45,7 +45,7 @@
 
 ---
 
-### ⚙️ Environment & Preferences
+### Environment & Preferences
 
 #### OS
 <p>
